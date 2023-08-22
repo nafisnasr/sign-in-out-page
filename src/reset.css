@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "lalezar";
+  src: url(/src/style/lalezar/Lalezar-Regular.ttf);
+  src: url(/src/style/lalezar/Lalezar-Regular.otf);
+}
+
+body {
+  font-family: "lalezar";
+}

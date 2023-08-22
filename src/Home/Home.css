@@ -1,0 +1,18 @@
+.main-page {
+  width: 70%;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.register,
+.login {
+  width: 20%;
+  background-color: #fff;
+  color: rgba(240, 5, 36, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 5px;
+}
